@@ -1,4 +1,6 @@
- 
+ /* 
+  http://sqlfiddle.com/#!9/a81ef8/7
+ */
  CREATE TABLE STUDENT (
   Name VARCHAR(15) NOT NULL,
   Student_number INT NOT NULL,
